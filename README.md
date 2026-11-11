@@ -1,3 +1,5 @@
+<div lang="ru">
+
 <a href="https://myfreelab.ru">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
@@ -6,14 +8,14 @@
 </a>
 
 <p align="center">
-  <a href="https://myfreelab.ru"><img src="https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-myfreelab.ru-b3122e?style=for-the-badge" alt="Сайт myfreelab.ru"></a>
-  <a href="https://t.me/AlexAn_369"><img src="https://img.shields.io/badge/Telegram-@AlexAn__369-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @AlexAn_369"></a>
-  <a href="mailto:alex2180369@gmail.com"><img src="https://img.shields.io/badge/%D0%BF%D0%BE%D1%87%D1%82%D0%B0-alex2180369@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта alex2180369@gmail.com"></a>
+  <a href="https://myfreelab.ru"><img src="https://img.shields.io/badge/%D1%81%D0%B0%D0%B9%D1%82-myfreelab.ru-b3122e?style=flat-square" alt="Сайт myfreelab.ru"></a>
+  <a href="https://t.me/AlexAn_369"><img src="https://img.shields.io/badge/Telegram-@AlexAn__369-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram @AlexAn_369"></a>
+  <a href="mailto:alex2180369@gmail.com"><img src="https://img.shields.io/badge/%D0%BF%D0%BE%D1%87%D1%82%D0%B0-alex2180369@gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Почта alex2180369@gmail.com"></a>
 </p>
 
 ## Привет, я Алексей 👋
 
-Собираю сайты и инструменты для малого бизнеса: от текста и дизайна до рабочего адреса в интернете. **Все работы ниже живые:** их можно открыть и попробовать так, как это сделает ваш клиент.
+Собираю сайты и инструменты для небольших компаний и частных специалистов: от текста и дизайна до рабочего адреса в интернете. **Все работы ниже живые:** их можно открыть и попробовать так, как это сделает ваш клиент.
 
 - ⚡ Отвечаю в течение дня и объясняю простыми словами.
 - 🎓 Учусь и собираю портфолио, поэтому цены ниже рыночных.
@@ -188,9 +190,13 @@ flowchart LR
 <details>
 <summary>🇬🇧 In English</summary>
 <br>
+<div lang="en">
 
-Hi, I'm Alex. I build landing pages, quizzes, price calculators, chatbots and team trackers for small businesses. Every project above is live: open it and try it the way your customer would. Message me on Telegram: [@AlexAn_369](https://t.me/AlexAn_369).
+Hi, I'm Alex. I build landing pages, quizzes, price calculators, chatbots and team trackers for small companies and independent professionals. Every project above is live: open it and try it the way your customer would. Message me on Telegram: [@AlexAn_369](https://t.me/AlexAn_369).
 
+</div>
 </details>
 
 <p align="center"><sub>лаборатория myfreelab · 2026</sub></p>
+
+</div>
